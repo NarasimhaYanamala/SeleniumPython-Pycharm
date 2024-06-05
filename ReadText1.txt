@@ -1,0 +1,7 @@
+Reading the data for Automation application
+
+Hello world
+
+This is to read this file for an automation purpose
+
+
